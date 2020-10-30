@@ -1,0 +1,29 @@
+
+body{
+	background-color: #343434;
+	color: white;
+	background-image: url('Backbanner.jpg');
+	background-size: 100% 200%;
+	font-family: 'Epilogue', sans-serif;
+}
+img{
+	z-index:2
+}
+
+h1{
+	z-index:1;
+	font-family: 'Grenze Gotisch', cursive;
+	border: 5px outset #505050;
+	background-color: #151515;
+	text-align: center;
+}
+
+p{
+	z-index:1;
+	text-align: left;
+}
+
+p{
+	margin-right: 750px;
+	margin-left: 0px;
+}
